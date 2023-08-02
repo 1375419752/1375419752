@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Muzi
-- 👀 I’m interested in ...Java
-- 🌱 I’m currently learning ...Java and C
+- 👀 I’m interested in Java
+- 🌱 I’m currently learning Java and C
 - 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ...  qq:1375419752
+- 📫 How to reach me qq:1375419752
 
 <!---
 1375419752/1375419752 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
